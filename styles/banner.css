@@ -31,6 +31,5 @@
     text-align: center;
     color: var(--branco);
     background: url(..//img/lupinha.svg) no-repeat;
-    background-position: 1em;
-
+    background-position: 0.5em;
 }
